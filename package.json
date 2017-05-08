@@ -1,0 +1,19 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "mac clone calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erikasf/mac-calculator-clone.git"
+  },
+  "author": "erika harvey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erikasf/mac-calculator-clone/issues"
+  },
+  "homepage": "https://github.com/erikasf/mac-calculator-clone#readme"
+}
